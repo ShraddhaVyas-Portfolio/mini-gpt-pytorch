@@ -1,0 +1,10 @@
+Artificial Intelligence is transforming the world.
+Machine learning helps computers recognize patterns.
+Deep learning uses neural networks with many layers.
+Transformers use self attention mechanisms.
+GPT models generate human like text.
+Large language models are trained on massive datasets.
+Python is widely used in artificial intelligence.
+Data science combines mathematics statistics and programming.
+Neural networks learn through optimization algorithms.
+Generative AI can create text images audio and code.
