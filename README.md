@@ -8,7 +8,7 @@ The objective of this project was to understand how modern GPT models work by im
 
 The model learns character-level language patterns from training text and can generate new text after training.
 
-Features
+Features-
 ✅ Token Embeddings
 
 ✅ Positional Embeddings
@@ -43,10 +43,19 @@ Language Model Head
 Generated Text
 
 ## What I Learned - 
-Transformer architecture fundamentals - Attention mechanisms - Embedding layers - Model training and inference - Text generation techniques - PyTorch neural network development --- 
+Transformer architecture fundamentals 
+Attention mechanisms 
+Embedding layers 
+Model training and inference 
+Text generation techniques 
+PyTorch neural network development 
 
 ## Future Improvements - 
-Larger datasets - Subword tokenization - GPU training - Improved text quality - More transformer layers --- 
+Larger datasets 
+Subword tokenization 
+GPU training 
+Improved text quality 
+More transformer layers 
 
 ## Author Shraddha Vyas 
 AI & Cloud Practitioner | AWS AI Practitioner Candidate
