@@ -57,6 +57,7 @@ GPU training
 Improved text quality 
 More transformer layers 
 
-## Author Shraddha Vyas 
+## Author
+Shraddha Vyas 
 AI & Cloud Practitioner | AWS AI Practitioner Candidate
 
